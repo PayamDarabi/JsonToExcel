@@ -1,5 +1,5 @@
 
-# JsonToExcel Convetor
+# JsonToExcel Convertor
 C# console application that converts multiple Json files to Excel 
 
 
