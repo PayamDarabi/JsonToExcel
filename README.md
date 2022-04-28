@@ -14,7 +14,7 @@ CloseXML
 
 <h3> How To Use </h3>
   
-  Put the path of parent folders that Json files stored in your system in the filePath variable and start.<br />
+  Put the parent folder`s path that Json files stored in your system in <b>"filePath"</b> variable and start.<br />
   Excel files are saved in the project path.
   
   
