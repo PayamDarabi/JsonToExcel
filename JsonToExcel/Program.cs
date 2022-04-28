@@ -12,7 +12,6 @@ namespace JsonToExcel
     class Program
     {
         //Change Files Path To Your Directory Of Json Files
-        //Change SavePath To Your DestinationPath Of .xlsx
 
         static string filesFormat = "*.json";
         static string filesPath = @"<YOUR DRIVE>:\<DIRECTORY IN THIS FORMAT: C:\AA\BB\CC\";
